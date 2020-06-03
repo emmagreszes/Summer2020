@@ -2,7 +2,7 @@ export default
 [
   {
    "id": 1,
-    "title": "Avatar",
+    "title": "Prince of Egypt",
     "distributor": "20th Century Fox",
     "year": 2009,
     "amount": "$2,787,965,087",
