@@ -61,8 +61,8 @@ export default
     "year": 2020,
     "semester": "Fall",
     "img": {
-      "src": "media/kimmelman.jpg",
-      "alt": "Reuven Kimmelman"
+      "src": "media/kimelman.jpg",
+      "alt": "Reuven Kimelman"
     },
     "ranking": 5
   }
