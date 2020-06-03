@@ -9,57 +9,60 @@ export default
     "semester": "Fall",
 
     "img": {
-      "src": "media/avatar.jpg",
-      "alt": "avatar"
+      "src": "media/antonella.jpg",
+      "alt": "Antonella DiLillo"
     },
     "ranking": 1
   },
   {
     "id": 2,
     "title": "COSI 164a",
-    "name": "3D Animation",
+    "name": "Introduction to 3D Animation",
     "professor": "Timothy Hickey"
     "year": 2020,
     "semester": "Fall",
     "img": {
-      "src": "media/titanic.jpg",
-      "alt": "titanic"
+      "src": "media/hickey.jpg",
+      "alt": "Timothy Hickey"
     },
     "ranking": 2
   },
   {
     "id": 3,
-    "title": "Star Wars: The Force Awakens",
-    "distributor": "Walt Disney Studios Motion Pictures",
-    "year": 2015,
-    "amount": "$2,068,223,624",
+    "title": "BIO 14a",
+    "name": "Genetics and Genomics",
+    "professor": "Rachel Woodruff"
+    "year": 2020,
+    "semester": "Fall",
     "img": {
-      "src": "media/star_wars_the_force_awakens.jpg",
-      "alt": "star_wars_the_force_awakens"
+      "src": "media/woodruff.jpg",
+      "alt": "Rachel Woodruff"
     },
     "ranking": 3
   },
   {
     "id": 4,
-    "title": "Avengers: Infinity War",
-    "distributor": "Walt Disney Studios Motion Pictures",
-    "year": 2018,
-    "amount": "$2,048,359,754",
+    "title": "ECON 20a",
+    "name": "Introduction to Macroeconomics",
+    "professor": "Nelson Sa"
+    "year": 2020,
+    "semester": "Fall",
     "img": {
-      "src": "media/avengers_infinity_war.jpg",
-      "alt": "avengers_infinity_war"
+      "src": "media/Sa.jpg",
+      "alt": "Nelson Sa"
     },
     "ranking": 4
   },
   {
     "id": 5,
-    "title": "Jurassic World",
-    "distributor": "Universal Pictures",
-    "year": 2015,
-    "amount": "$1,671,713,208",
+    "title": "NEJS 125b",
+    "name": "Midrashic Literature: Sifre Deuteronomy",
+    "professor": "Reuven Kimmelman"
+    "year": 2020,
+    "semester": "Fall",
     "img": {
-      "src": "media/jurassic_world.jpg",
-      "alt": "jurassic_world"
+      "src": "media/kimmelman.jpg",
+      "alt": "Reuven Kimmelman"
     },
     "ranking": 5
   }

@@ -4,8 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import CardList from './containers/CardList';
 import MovieList from './containers/MovieList';
 
-import movieData from '../assets/data.js'
+import classData from '../assets/data.js'
 
+const movieData = []
 
 const App = () => {
   return (
@@ -17,7 +18,7 @@ const App = () => {
 
     <MovieList data={movieData} title="List of Movies by Earnings" />
     <pre>
-    {JSON.stringify(movieData,null,4)}
+    {JSON.stringify(classData,null,4)}
     </pre>
     <div className='container-fluid'>
       <nav className='navbar sticky-top navbar-light bg-dark'>
