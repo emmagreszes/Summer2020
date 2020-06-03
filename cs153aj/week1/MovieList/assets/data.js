@@ -2,12 +2,10 @@ export default
 [
   {
    "id": 1,
-    "title": "COSI10a",
-    "name": "Introduction to Problem Solving in Python"
-    "professor": "Antonella DiLillo",
-    "year": 2020,
-    "semester": "Fall",
-
+    "title": "Prince of Egypt",
+    "distributor": "20th Century Fox",
+    "year": 2009,
+    "amount": "$2,787,965,087",
     "img": {
       "src": "media/avatar.jpg",
       "alt": "avatar"
