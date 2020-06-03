@@ -2,10 +2,12 @@ export default
 [
   {
    "id": 1,
-    "title": "Prince of Egypt",
-    "distributor": "20th Century Fox",
-    "year": 2009,
-    "amount": "$2,787,965,087",
+    "title": "COSI10a",
+    "name": "Introduction to Problem Solving in Python"
+    "professor": "Antonella DiLillo",
+    "year": 2020,
+    "semester": "Fall",
+
     "img": {
       "src": "media/avatar.jpg",
       "alt": "avatar"
@@ -14,10 +16,11 @@ export default
   },
   {
     "id": 2,
-    "title": "Titanic",
-    "distributor": "20th Century Fox",
-    "year": 1997,
-    "amount": "$2,187,463,944",
+    "title": "COSI 164a",
+    "name": "3D Animation",
+    "professor": "Timothy Hickey"
+    "year": 2020,
+    "semester": "Fall",
     "img": {
       "src": "media/titanic.jpg",
       "alt": "titanic"
