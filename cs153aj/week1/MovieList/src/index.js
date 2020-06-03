@@ -12,20 +12,18 @@ const App = () => {
   return (
    <>
     <div className="jumbotron">
-    <h1>Top Grossing Movies</h1>
-    <p>This is a React demo showing how to create HTML from data</p>
+    <h1>Brandeis University Fall 2020 Courses</h1>
+    <p>This page lists several courses offered this fall at Brandeis. </p>
     </div>
 
-    <MovieList data={movieData} title="List of Movies by Earnings" />
-    <pre>
-    {JSON.stringify(classData,null,4)}
-    </pre>
+    <MovieList data={movieData} title="Brandeis Classes Fall 2020" />
+
     <div className='container-fluid'>
       <nav className='navbar sticky-top navbar-light bg-dark'>
         <h1 className='navbar-brand text-light'>MovieList</h1>
       </nav>
 
-      <CardList data={movieData} />
+      <CardList data={classData} />
 
 
     </div>

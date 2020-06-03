@@ -20,6 +20,8 @@ const  MovieList = ({data,title}) => {
 MovieList.propTypes = {
     data: PropTypes.array.isRequired,
     title: PropTypes.string.isRequired,
+    professor: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired,
 };
 
 
