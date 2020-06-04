@@ -6,7 +6,7 @@ const Card = ({ movie }) => {
     <div className='card'>
       <img src={movie.img.src} className='card-img-top' alt={movie.img.alt} />
       <div className='card-body'>
-        <h2 className='card-title'>{`#${movie.ranking} - ${movie.title} (${movie.year})`}</h2>
+        <h2 className='card-title'>{`${movie.title} (${movie.year})`}</h2>
       </div>
       <ul className='list-group list-group-flush'>
         <li className='list-group-item'>{`professor: ${movie.professor}`}</li>
